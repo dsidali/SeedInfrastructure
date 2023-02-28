@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeedInfrastructure", "SeedInfrastructure\SeedInfrastructure.csproj", "{77CA2387-45BA-40CE-9CF0-D8BD66A2078E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeedInfrastructure.MicrosoftTeams", "SeedInfrastructure.MicrosoftTeams\SeedInfrastructure.MicrosoftTeams.csproj", "{58F34ACB-DFF4-4C0D-A3A7-AAC9161E9346}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77CA2387-45BA-40CE-9CF0-D8BD66A2078E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77CA2387-45BA-40CE-9CF0-D8BD66A2078E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77CA2387-45BA-40CE-9CF0-D8BD66A2078E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77CA2387-45BA-40CE-9CF0-D8BD66A2078E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58F34ACB-DFF4-4C0D-A3A7-AAC9161E9346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F34ACB-DFF4-4C0D-A3A7-AAC9161E9346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F34ACB-DFF4-4C0D-A3A7-AAC9161E9346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F34ACB-DFF4-4C0D-A3A7-AAC9161E9346}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F45DE9B1-C4EA-400E-A101-C2F5D418EF46}
+	EndGlobalSection
+EndGlobal
